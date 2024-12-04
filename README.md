@@ -182,14 +182,42 @@ Döngüde break ve Continue Kullanımı
 	}
 
 Fonksiyonlar
-
-
-
 3.Fonksiyonlar (Metodlar)
 
-4.Nesne Yönelimli Programlama (OOP)
+Fonksiyon Nedir:
 
-5. Veri Yapıları ve Algoritmalar
+Belirli bir görevi yerine getirmek için tanımlanmış ifade bloklarıdır.
+
+
+Neden Kullanırız?
+Programın anlaşılabilirliğini , hata takibini ve program içerisinde kod takibini kolaylaştırmak için programın fonksiyonlara(metotlara) ayrılması(küçük programcıklar
+haline getirilmesi) işimizi kolaylaştırır.
+
+***Genel
+Bir defa oluşturulur birden fazla kez çağrılabilir.
+Genellikle çağıran programdan aldıkları girdileri verileri işleyerek sonuçları yine çağıran programa geri göndeririz.
+Metot girdilerine parametre veya argüman adı verilir.
+Bir metot geriye (çağrıldığı yere) bir değer dönmüyorsa "void" tipindedir.***
+Geriye değer döndürecek metotlarda ise "return" ifadesi kullanırız.
+..Metot veri tipi ile return veri tipi kesinlikle aynı olmalıdır.//Tür uyumsuzluğu şeklinde uyarı dönmektedir. 
+
+
+Kod içerisinde tekrar tekrar kullandığımız kod parçaçıklarını fonskiyon olarak tanımlarız bu şekilde tekrar eden kod yazmak durumunda kalmayız.
+
+Günlük yaşamımızdan örnek verecek olursak : Çamaşır Makinesi kullanım amacı.
+
+Bir fonksiyon bir ve birden fazla parametre alabilir  ama sadece bir tip "int,string,double..." dönebilir.
+
+Rekursif Fonsksiyonlar?
+
+4.Data Structures
+
+5.Nesne Yönelimli Programlama (OOP)
+
+6. Algoritmalar 
+Konular ile ilgili yapılan örneklerimi atacağım link  belirtilecek.
+Tüm öğrendiklerimi gösterebileceğim küçük bir proje?
+
 
 
 
